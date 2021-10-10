@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consulta Agenda AD</string>
+    <string name="et_Phone">Introduce the phone numer</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+    <string name="title">Read Contact Permission Required</string>
+    <string name="message">I need things to do things</string>
+
+</resources>
